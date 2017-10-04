@@ -40,10 +40,12 @@ li a {
   <li><a href="register">Register</a></li>
   <li><a href="contact">Contact</a></li>
   <li><a href="about">About</a></li>
-  <li><a href="AddProduct">AddProduct</a></li>
+  <li><a href="product">product</a></li>
+  <li><a href="viewproduct">view product</a></li>
   
   
 </ul>
+
 <div class="container">
   <h2>PICK FRESH</h2>  
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -57,18 +59,17 @@ li a {
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="E:\foodimages\img1.jpg" alt="" style="width:100%;">
+        <img src="E:\foodimages\img3.jpg" alt="" style="width:100%;">
       </div>
 
       <div class="item">
-        <img src="E:\foodimages\img5.jpg" alt="" style="width:100%;">
+        <img src="E:\foodimages\img2.jpg" alt="" style="width:100%;">
       </div>
     
       <div class="item">
-        <img src="E:\foodimages\img8.jpg" alt="" style="width:100%;">
+        <img src="E:\foodimages\img1.jpg" alt="" style="width:100%;">
       </div>
     </div>
-      
 
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" data-slide="prev">
